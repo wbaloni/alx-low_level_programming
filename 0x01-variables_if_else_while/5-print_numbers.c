@@ -3,7 +3,7 @@
 /**
  * main - name of my function and entry point
  *
- * Description: Prints all single digit numbers of base 10, starting from 0 up to 9
+ * Description: Prints numbers from 0 up to 9
  *
  * Return: 0 means it's successful
  */
