@@ -1,4 +1,4 @@
-#include "mystuff.h"
+#include "main.h"
 
 /**
  * main - the name of the function
